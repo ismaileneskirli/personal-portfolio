@@ -1,2 +1,3 @@
 # personal-portfolio
-React.js + Next.js based personel portfolio app.  
+
+React.js based personel portfolio app.
